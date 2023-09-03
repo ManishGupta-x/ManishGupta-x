@@ -1,3 +1,4 @@
+![logo](https://github.com/NightmareManish/NightmareManish/blob/main/Banner.png)
 <h1 align="center">Hi 👋, I'm Manish</h1>
 <h3 align="center">A Dedicated Software Alchemist Unraveling the Mysteries of Full-Stack Sorcery 🧙‍♂️💻</h3>
 
