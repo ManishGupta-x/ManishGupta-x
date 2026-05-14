@@ -49,10 +49,11 @@ I approach engineering as an end-to-end discipline rather than isolated coding t
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ManishGupta-x&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ManishGupta-x&theme=tokyonight" alt="Profile Details"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManishGupta-x&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ManishGupta-x&theme=tokyonight" alt="GitHub Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ManishGupta-x&theme=tokyonight" alt="Top Languages"/>
 </p>
 
 ---
