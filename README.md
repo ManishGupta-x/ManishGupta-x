@@ -22,22 +22,17 @@ Engineer with full-lifecycle SDLC expertise — BRD/SRD preparation, architectur
 
 ---
 
-## Featured Work
+## How I Work
 
-### DropMyOrder — Integrated Food Service Platform
-`Next.js` `React` `Electron` `Kotlin` `Node.js` `Django` `MySQL` `SQLite` `WebSocket` `PWA`
+I approach engineering as an end-to-end discipline rather than isolated coding tasks. Every feature I ship moves through a deliberate lifecycle — from requirements gathering and BRD/SRD authoring with stakeholders, through architecture design, implementation, automated test-suite development, QA verification plans, and finally change-control-compliant CI/CD deployment.
 
-Architected a four-tier ecosystem (back-office portal, warehouse inventory, Electron offline POS, Kotlin Android delivery app) on a unified REST API backend. Designed 100+ endpoints with JWT lifecycle management, RBAC across superadmin/admin/worker roles, and QR-based stock tracking — boosting efficiency by 45% across 8 outlets. Delivered offline-first consistency via Dexie.js IndexedDB, SQLCipher-encrypted SQLite, and a priority-queue worker thread.
+**Architecture-first thinking.** Before writing a line of code, I design the system: data models, API contracts, role boundaries, and failure modes. This has let me build unified backends that drive multiple client tiers (web PWAs, Electron desktop apps, Android-native delivery clients) without divergent business logic — production systems where 100+ endpoints share a single source of truth and JWT-secured RBAC scales cleanly across superadmin, admin, and worker roles.
 
-### AlphaGrid — AI-Driven Stock Trading System
-`Node.js` `WebSocket` `SQLite` `Zerodha API` `Next.js` `Vercel` `Railway` `SSE`
+**Multi-platform consistency under real-world constraints.** I treat offline-first behavior, intermittent connectivity, and data integrity as first-class requirements — not afterthoughts. Concretely: Dexie.js + IndexedDB on the browser tier, SQLCipher-encrypted SQLite on desktop, WorkManager + GPS on Android, all reconciled through priority-queue worker threads against a shared REST/WebSocket backend. The result is systems where field operators in low-connectivity outlets see zero functional degradation.
 
-Automated grid trading bot consuming live market data via Zerodha WebSocket; AI-driven regime detection (BULLISH/BEARISH/SIDEWAYS) auto-selects stocks and tunes grid parameters. Adaptive strategy engine with RSI/EMA/momentum indicators, intelligent exits (trailing stop, momentum exhaustion), and cron-scheduled market-hours execution. Next.js/Vercel dashboard with SSE live trade logs and portfolio analytics.
+**Security and compliance baked in.** JWT lifecycle management, RBAC, financial-grade data integrity safeguards, and audit-ready change-control checklists are part of how I deliver — not features I bolt on at the end. Working in a regulated-industry product has shaped how I scope, review, and ship code.
 
-### TradeVault — Spring Boot Portfolio Management API
-`Java` `Spring Boot` `Spring Data JPA` `MySQL` `REST API` `JWT` `Maven`
-
-RESTful portfolio management API with Spring Boot and JPA; JWT-secured endpoints, RBAC, and Swagger/OpenAPI documentation as a containerization-ready microservice following SDLC and change-control practices.
+**Measured outcomes.** I instrument and verify. The work I'm proudest of is quantified — 40% operational efficiency gains across 8 outlets, 85% reduction in manual errors, 60% faster end-to-end order fulfillment — because those metrics are what cross-functional partners (business users, data engineers, PMs) actually depend on.
 
 ---
 
@@ -54,8 +49,10 @@ RESTful portfolio management API with Spring Boot and JPA; JWT-secured endpoints
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ManishGupta-x&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ManishGupta-x&layout=compact&theme=default&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ManishGupta-x&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManishGupta-x&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages"/>
 </p>
 
 ---
