@@ -1,32 +1,66 @@
-![logo](https://github.com/ManishGupta-x/ManishGupta-x/blob/main/Banner.png)
-<h1 align="center">Hi 👋, I'm Manish</h1>
-<h3 align="center">A Dedicated Software Alchemist Unraveling the Mysteries of Full-Stack Sorcery 🧙‍♂️💻</h3>
+![banner](https://github.com/ManishGupta-x/ManishGupta-x/blob/main/Banner.png)
 
-<img align = "right" alt = "coding" width = "400" src = "https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ManishGupta-x&label=Profile%20views&color=0e75b6&style=flat" alt="ManishGupta-x" /> </p>
+<h1 align="center">Manish Gupta</h1>
+<h3 align="center">Full-Stack Software Engineer | C/C++ & JavaScript/TypeScript | System Design</h3>
 
-- 🔭 Conceal secrets within images by manipulating the least significant bits of pixel data. Explore the art of covert communication and data hiding. [LSB Stegnography](https://github.com/ManishGupta-x/Image_steganography)
-
-- 🌱 I’m currently learning **React.js , Golang**
-
-- 👯 Elevate your server's vibes with the best music bot! Play, queue, and enjoy your favorite tunes seamlessly. Groove on!" [Jarvis , The Harmonious AI](https://github.com/ManishGupta-x/Jarvis)
-
-- 🤝 Create your Directories with TODO MANAGER in built [Telephone Diary](https://github.com/ManishGupta-x/telephoneDiary)
-
-- 💬 Ask me about **Nodejs, Expressjs, Mongodb, Nextjs , Competitive Programming**
-
-- 📫 How to reach me **www.linkedin.com/in/manish-gupta-8861ba224**
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/manish-gupta-8861ba224" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/manish-gupta-8861ba224" height="30" width="40" /></a>
-<a href="https://instagram.com/@thecodingfreak_22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@thecodingfreak_22" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/manish_22" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="manish_22" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/manish_2204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="manish_2204" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://linkedin.com/in/devmanishg22"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:manishgupta220402@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://dev.manishguptaji.co.in"><img src="https://img.shields.io/badge/Portfolio-1F8B4C?style=flat&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <img src="https://komarev.com/ghpvc/?username=ManishGupta-x&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> • Programming Languages : C , C++ , Java <br> • Databases : MySql and Mongodb <br> • Backend : Nodejs/Expressjs <br> • FrontEnd : HTML/CSS and React.js <br> • Other Skills :  Figma For UI/UX and canva </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ManishGupta-x&show_icons=true&locale=en&layout=compact" alt="ManishGupta-x" /></p>
+## About
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ManishGupta-x&show_icons=true&locale=en" alt="ManishGupta-x" /></p>
+Engineer with full-lifecycle SDLC expertise — BRD/SRD preparation, architecture design, code reviews, QA verification plans, and CI/CD deployment. Proficient in JavaScript/TypeScript, Java, Spring Boot, Node.js, React/Next.js, and SQL/NoSQL systems; experienced in multi-platform system design, security principles, and change-control delivery.
+
+- **Currently:** Member of Technical Staff (Full-Stack Engineer) @ **DropMyOrder** — Shimla, HP
+- **Education:** B.Tech in Information Technology, MAIT Delhi (GPA: 9.01/10)
+- **Open to:** Full-time SDE roles and engineering opportunities
+
+---
+
+## Featured Work
+
+### DropMyOrder — Integrated Food Service Platform
+`Next.js` `React` `Electron` `Kotlin` `Node.js` `Django` `MySQL` `SQLite` `WebSocket` `PWA`
+
+Architected a four-tier ecosystem (back-office portal, warehouse inventory, Electron offline POS, Kotlin Android delivery app) on a unified REST API backend. Designed 100+ endpoints with JWT lifecycle management, RBAC across superadmin/admin/worker roles, and QR-based stock tracking — boosting efficiency by 45% across 8 outlets. Delivered offline-first consistency via Dexie.js IndexedDB, SQLCipher-encrypted SQLite, and a priority-queue worker thread.
+
+### AlphaGrid — AI-Driven Stock Trading System
+`Node.js` `WebSocket` `SQLite` `Zerodha API` `Next.js` `Vercel` `Railway` `SSE`
+
+Automated grid trading bot consuming live market data via Zerodha WebSocket; AI-driven regime detection (BULLISH/BEARISH/SIDEWAYS) auto-selects stocks and tunes grid parameters. Adaptive strategy engine with RSI/EMA/momentum indicators, intelligent exits (trailing stop, momentum exhaustion), and cron-scheduled market-hours execution. Next.js/Vercel dashboard with SSE live trade logs and portfolio analytics.
+
+### TradeVault — Spring Boot Portfolio Management API
+`Java` `Spring Boot` `Spring Data JPA` `MySQL` `REST API` `JWT` `Maven`
+
+RESTful portfolio management API with Spring Boot and JPA; JWT-secured endpoints, RBAC, and Swagger/OpenAPI documentation as a containerization-ready microservice following SDLC and change-control practices.
+
+---
+
+## Technical Skills
+
+**Languages:** C/C++ · JavaScript/TypeScript · Java · Python · SQL · C# · HTML/CSS
+**Front-End:** React.js · Next.js · Angular · Tailwind CSS · PWA · WebSockets
+**Back-End:** Node.js · Express.js · Spring Boot · Django · REST APIs · Microservices
+**Databases:** MySQL · MongoDB · SQLite · IndexedDB
+**DevOps & Practices:** Git/GitHub · CI/CD · Nginx · Agile/Scrum · TDD · System Design · Containerization
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ManishGupta-x&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ManishGupta-x&layout=compact&theme=default&hide_border=true" alt="Top Languages"/>
+</p>
+
+---
+
+<p align="center">
+  <a href="https://leetcode.com/manish_2204"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
+  <a href="https://www.codechef.com/users/manish_22"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white" alt="CodeChef"/></a>
+</p>
